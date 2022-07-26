@@ -29,14 +29,14 @@ export const members: IMember[] = [
         role: "เลขานุการ"
     },
     {
-        name: "น.ส.พัฒนน์รี สวนทอง",
-        class: "5/8",
-        role: "เหรัญญิก"
-    },
-    {
         name: "น.ส.นรรมน ปลั่งศรีทรัพย์",
         class: "5/8",
         role: "ประชาสัมพันธ์"
+    },
+    {
+        name: "น.ส.ณัฐพรรษ เนาว์แก้ว",
+        class: "5/12",
+        role: "เหรัญญิก"
     },
     {
         name: "นายศุภชัย ขจรศักดิ์ดา",
@@ -75,18 +75,7 @@ export const members: IMember[] = [
         role: "กรรมการ"
     },
     {
-        name: "น.ส.ปาณิศรา ทองเสงี่ยม",
-        img: "https://www.seekpng.com/png/detail/966-9665317_placeholder-image-person-jpg.png",
-        class: "5/12",
-        role: "กรรมการ"
-    },
-    {
         name: "นายภีมพัฒน์ ศรีผ่องใส",
-        class: "5/12",
-        role: "กรรมการ"
-    },
-    {
-        name: "น.ส.ณัฐพรรษ เนาว์แก้ว",
         class: "5/12",
         role: "กรรมการ"
     },
